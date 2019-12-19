@@ -1,0 +1,108 @@
+{
+    "name": "MarketWatch",
+    "description": "MarketWatch provides the latest stock market, financial and business news. Get stock market quotes, personal finance advice, company news and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28681-marketwatch.jpg",
+    "tags": [
+        "have api",
+        "no api found"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/marketwatch\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MarketWatch",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28681-marketwatch.jpg",
+            "humanURL": "http:\/\/marketwatch.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/marketwatch-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/public-relations-society-of-america-2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/marketwatch"
+        },
+        {
+            "type": "Email",
+            "url": "helpdesk@prsa.org"
+        },
+        {
+            "type": "Email",
+            "url": "permissions@prsa.org"
+        },
+        {
+            "type": "Email",
+            "url": "membership@prsa.org"
+        },
+        {
+            "type": "Email",
+            "url": "jeneen.garcia@prsa.org"
+        },
+        {
+            "type": "Email",
+            "url": "memberservices@prsa.org"
+        },
+        {
+            "type": "Email",
+            "url": "BEPS@prsa.org"
+        },
+        {
+            "type": "Email",
+            "url": "goodfellows@prsa.org"
+        },
+        {
+            "type": "Email",
+            "url": "donna.jonas@prsa.org"
+        },
+        {
+            "type": "Email",
+            "url": "qfottrell@marketwatch.com"
+        },
+        {
+            "type": "Email",
+            "url": "tgarcia@marketwatch.com"
+        },
+        {
+            "type": "Email",
+            "url": "ecourt@marketwatch.com"
+        },
+        {
+            "type": "Email",
+            "url": "rvlastelica@marketwatch.com"
+        },
+        {
+            "type": "Email",
+            "url": "rschroeder@marketwatch.com"
+        },
+        {
+            "type": "Email",
+            "url": "amalito@marketwatch.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MarketWatch"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/prsa.org"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/marketwatch.com"
+        }
+    ]
+}
